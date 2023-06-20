@@ -1,0 +1,201 @@
+[{
+    name: 'Conv_0',
+    type: Convolution,
+    bottom: input.1,
+    top: 147
+}, {
+    name: 'Conv_1',
+    type: Convolution,
+    bottom: 147,
+    top: 150
+}, {
+    name: 'Conv_3',
+    type: Convolution,
+    bottom: 150,
+    top: 151
+}, {
+    name: 'Conv_4',
+    type: Convolution,
+    bottom: 151,
+    top: 154
+}, {
+    name: 'MaxPool_6',
+    type: Pooling,
+    bottom: 154,
+    top: 155
+}, {
+    name: 'Conv_7',
+    type: Convolution,
+    bottom: 155,
+    top: 156
+}, {
+    name: 'Conv_8',
+    type: Convolution,
+    bottom: 156,
+    top: 159
+}, {
+    name: 'Conv_10',
+    type: Convolution,
+    bottom: 159,
+    top: 160
+}, {
+    name: 'Conv_11',
+    type: Convolution,
+    bottom: 160,
+    top: 163
+}, {
+    name: 'Conv_13',
+    type: Convolution,
+    bottom: 163,
+    top: 164
+}, {
+    name: 'Conv_14',
+    type: Convolution,
+    bottom: 164,
+    top: 167
+}, {
+    name: 'Conv_16',
+    type: Convolution,
+    bottom: 167,
+    top: 168
+}, {
+    name: 'Conv_17',
+    type: Convolution,
+    bottom: 168,
+    top: 171
+}, {
+    name: 'MaxPool_19',
+    type: Pooling,
+    bottom: 171,
+    top: 172
+}, {
+    name: 'Conv_20',
+    type: Convolution,
+    bottom: 172,
+    top: 173
+}, {
+    name: 'Conv_21',
+    type: Convolution,
+    bottom: 173,
+    top: 176
+}, {
+    name: 'Conv_23',
+    type: Convolution,
+    bottom: 176,
+    top: 177
+}, {
+    name: 'Conv_24',
+    type: Convolution,
+    bottom: 177,
+    top: 180
+}, {
+    name: 'MaxPool_26',
+    type: Pooling,
+    bottom: 180,
+    top: 181
+}, {
+    name: 'Conv_27',
+    type: Convolution,
+    bottom: 181,
+    top: 182
+}, {
+    name: 'Conv_28',
+    type: Convolution,
+    bottom: 182,
+    top: 185
+}, {
+    name: 'Conv_30',
+    type: Convolution,
+    bottom: 185,
+    top: 186
+}, {
+    name: 'Conv_31',
+    type: Convolution,
+    bottom: 186,
+    top: 189
+}, {
+    name: 'MaxPool_33',
+    type: Pooling,
+    bottom: 189,
+    top: 190
+}, {
+    name: 'Conv_34',
+    type: Convolution,
+    bottom: 190,
+    top: 191
+}, {
+    name: 'Conv_35',
+    type: Convolution,
+    bottom: 191,
+    top: 194
+}, {
+    name: 'Conv_37',
+    type: Convolution,
+    bottom: 194,
+    top: 195
+}, {
+    name: 'Conv_38',
+    type: Convolution,
+    bottom: 195,
+    top: 198
+}, {
+    name: 'Conv_50',
+    type: Convolution,
+    bottom: 198,
+    top: 211
+}, {
+    name: 'Conv_51',
+    type: Convolution,
+    bottom: 211,
+    top: 214
+}, {
+    name: 'Conv_53',
+    type: Convolution,
+    bottom: 214,
+    top: 215
+}, {
+    name: 'Conv_54',
+    type: Convolution,
+    bottom: 215,
+    top: 216
+}, {
+    name: 'Conv_45',
+    type: Convolution,
+    bottom: 189,
+    top: 205
+}, {
+    name: 'Conv_46',
+    type: Convolution,
+    bottom: 205,
+    top: 208
+}, {
+    name: 'Conv_48',
+    type: Convolution,
+    bottom: 208,
+    top: 209
+}, {
+    name: 'Conv_49',
+    type: Convolution,
+    bottom: 209,
+    top: 210
+}, {
+    name: 'Conv_40',
+    type: Convolution,
+    bottom: 180,
+    top: 199
+}, {
+    name: 'Conv_41',
+    type: Convolution,
+    bottom: 199,
+    top: 202
+}, {
+    name: 'Conv_43',
+    type: Convolution,
+    bottom: 202,
+    top: 203
+}, {
+    name: 'Conv_44',
+    type: Convolution,
+    bottom: 203,
+    top: 204
+}]
